@@ -1,6 +1,6 @@
 # CyberShield
 
-**Project Overview: **
+**Project Overview:**
 
 CyberShield is a terminal-based C++17 cybersecurity project  where the user acts as the 
 Cyber Defense Administrator of a virtual city. The city's network , including a Bank, Hospital, 
@@ -12,7 +12,7 @@ a firewall rule, rate limiting or recovering the affected node.The actions and e
 recorded, and a final report shows the user’s performance . The project is made only for 
 educational purposes. It does not use real network connections or interact with real systems. 
 
-**Problem Statement: **
+**Problem Statement:**
 Students often learn Cybersecurity concepts (intrusion detection, firewalls, incident 
 response) and C++ concepts (OOP, STL, graph algorithms, file handling) separately. 
 Practicing these concepts on real systems can be unsafe or impractical for students. Also, 
@@ -22,7 +22,7 @@ where students can see simulated incidents, make defensive decisions and observe
 results of their actions. It also demonstrates good software design through modular classes, 
 OOP, data structures, algorithms and file handling.  
 
-**Objectives: **
+**Objectives:**
 
 1. Model a virtual city network using a graph (adjacency list) with different node classes: 
 Workstation, Server, DatabaseServer, Router and Firewall.  
@@ -43,11 +43,11 @@ response efficiency.
 7. Use basic engineering practices such as modular design, input validation, exception 
 handling and deterministic testing.
 
-** Input:** Seed value,network nodes,incidents,Alert and administration actions.   
- **Output:** Alert details, node status,response results,audit log and final performance 
+**Input:** Seed value,network nodes,incidents,Alert and administration actions.   
+**Output:** Alert details, node status,response results,audit log and final performance 
 report.
 
-**Steps to Achieve the objectives: ** 
+**Steps to Achieve the objectives:** 
 
  1. Create the virtual city network using graph and different node classes. 
  2. Generate repeatable security incidents using a seeded random generator. 
@@ -63,7 +63,8 @@ incident response to detect threats and apply defensive actions. Overall, it
 helps students gain practical knowledge of cybersecurity and software 
 development without using any real network system.
 
-**References:  **
+**References:**
+
 ● C++17 / cppreference 
 ● GeeksforGeeks – Graph Algorithms 
 ● NIST Cybersecurity Framework 
